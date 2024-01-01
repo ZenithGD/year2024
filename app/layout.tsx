@@ -35,7 +35,7 @@ export default function RootLayout({
               <div className='flex-1 self-start text-left'>
                 Creado por <Link className="font-bold transition duration-200 hover:text-indigo-300" href="https://github.com/ZenithGD">
                   Darío Marcos Casalé
-                </Link> - 2023
+                </Link> - 2024
               </div>
               <div className='flex-1 self-end'>
                 <Link className="font-bold transition duration-200 hover:text-indigo-300" href="/credits">
